@@ -243,7 +243,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #02142a url("https://onlyfans.my.id/images/bg.png") bottom left;
+		background: #02142a url("https://shorter.my.id/images/bg.png") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -369,7 +369,7 @@
 		-ms-animation: overlay 1.5s 1.5s forwards;
 		animation: overlay 1.5s 1.5s forwards;
 		background-attachment: fixed, fixed;
-		background-image: url("https://onlyfans.my.id/images/overlay-pattern.png"), url("https://onlyfans.my.id/images/overlay.svg");
+		background-image: url("https://shorter.my.id/images/overlay-pattern.png"), url("https://shorter.my.id/images/overlay.svg");
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
@@ -417,7 +417,7 @@
 		    content: " ";
 		    position: absolute;
 		    display: inline-block;
-		    background: url(https://onlyfans.my.id/images/verify.png) no-repeat;
+		    background: url(https://shorter.my.id/images/verify.png) no-repeat;
 		    bottom: 5px;
 		    right: 5px;
 		    z-index: 2;
@@ -767,7 +767,7 @@
 				}
 
 .online-y {
-  content: url(https://onlyfans.my.id/images/online.png);
+  content: url(https://shorter.my.id/images/online.png);
   -webkit-animation: blink 2s linear infinite;
   animation: blink 2s linear infinite;
 }
